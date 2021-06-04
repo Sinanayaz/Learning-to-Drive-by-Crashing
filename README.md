@@ -33,7 +33,7 @@ rosrun group_s training_wheels.py
 
 ### Refer to the cnn node to:
 
-This node was added to show the code we did for our CNN model, however we used the tool Google colab to run it. Our model `cnn_model.h5`, is stored in the folder so that it can be loaded in the node `explorer.py`.
+This node was added to show the code we did for our CNN model, however we used the tool Google colab to run it. Our model `cnn_model.h5`, is stored in the following link: https://usi365-my.sharepoint.com/:u:/g/personal/talans_usi_ch/EczV39OILcBLtD2Gzq7CnvYByzGIFoiiZOiyFG_bWhwMZg?e=zcGapr , it can be used  in the node `explorer.py`.
 
 
 
